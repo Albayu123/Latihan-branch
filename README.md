@@ -2,5 +2,5 @@
 
 Ini adalah latihan membuat branch baru
 
-Github itu asyik
-Apalagi belajarnya di Diciding
+Github itu asyik<br>
+Apalagi belajarnya di Dicoding
